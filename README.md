@@ -13,4 +13,4 @@
 
 # In Class Infographic Project 
 
-![Lehigh University Admissions Data](Classsize.png){width=50%}
+![Lehigh University Admissions Data](Classsize.png.png){width=50%}
