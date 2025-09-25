@@ -9,6 +9,8 @@
 
 ![my cat](Tummy.JPG)
 
+
+
 # In Class Infographic Project 
 
-![Lehigh University Admissions Data](Source Lehigh University Institutional Data.zip - 2){width=50%}
+![Lehigh University Admissions Data](Source Lehigh University Institutional Data.zip){width=50%}
