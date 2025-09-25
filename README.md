@@ -8,3 +8,7 @@
 ### When I am not working on school, the Brown and White or at work at [Railroad Records](https://thebrownandwhite.com/2025/09/10/railroad-records-spins-a-new-community-hub-on-south-side/) or I'm spending time with my cat *Tummy*. 
 
 ![my cat](Tummy.JPG)
+
+# In Class Infographic Project 
+
+![Lehigh University Admissions Data](Source Lehigh University Institutional Data.zip - 2){width=50%}
