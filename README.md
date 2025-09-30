@@ -17,7 +17,7 @@
 
 # Infographic Project 
 
-![Streaming Percentage Graph](UPDATEDSpotifyReleasesGlobally.png) 
+![Streaming Percentage Graph](2SpotifyReleasesGlobally.png) 
 
 Using data from the [IFPI Global Music Report 2025](https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf) which contained a dataset that contained the amount of money that each recorded music platform made I wanted to create an infographic that tracked the growth of streaming. The reason that this is important is because this information is the basis of understanding the change in the recording industry that happened in the past decade. 
 
