@@ -17,6 +17,6 @@
 
 # Infographic Project 
 
-![Streaming Percentage Graph](UPDATEDSpotify Releases Globally.png)
+![Streaming Percentage Graph](UPDATEDSpotifyReleasesGlobally.png) 
 
 Using data from the [IFPI Global Music Report 2025](https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf) I found that the exponential takeover of streaming as the predominant way that the music industry makes money, beating out physical media in 2017, describes a larger problem of musicians being forced to cater to an algorithm, for less pay than they were making before for record sold. 
