@@ -19,4 +19,8 @@
 
 ![Streaming Percentage Graph](UPDATEDSpotifyReleasesGlobally.png) 
 
-Using data from the [IFPI Global Music Report 2025](https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf) I found that the exponential takeover of streaming as the predominant way that the music industry makes money, beating out physical media in 2017, describes a larger problem of musicians being forced to cater to an algorithm, for much less pay than they were making before per record sold. 
+Using data from the [IFPI Global Music Report 2025](https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf) which contained a dataset that contained the amount of money that each recorded music platform made I wanted to create an infographic that tracked the growth of streaming. The reason that this is important is because this information is the basis of understanding the change in the recording industry that happened in the past decade. 
+
+This exponential takeover of streaming as the predomonant way that people consume recorded music also has deeper connections to musicians being underpaid because on streaming platforms artists are making as little as [0.003 cents per stream](https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/) of their song. 
+
+In 2017 streaming beat physical media out, globally, as not just the way people were consuming music but the way that the recording industry was making money. This opens many more possible research questions about how this affects artists through what kind of music they make and where they put their energy. 
