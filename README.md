@@ -24,3 +24,7 @@ Using data from the [IFPI Global Music Report 2025](https://www.ifpi.org/wp-cont
 This exponential takeover of streaming as the predomonant way that people consume recorded music also has deeper connections to musicians being underpaid because on streaming platforms artists are making as little as [0.003 cents per stream](https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/) of their song. 
 
 In 2017 streaming beat physical media out, globally, as not just the way people were consuming music but the way that the recording industry was making money. This opens many more possible research questions about how this affects artists through what kind of music they make and where they put their energy. 
+
+# Lehigh/Lafayette Rivalry
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRS_2eVCtlc6zsBpj9wLLJ8inOsJgAi1--0ErPV3BKHlF3SxwD8e8RphwogdyQss5vJVu6XmZtc8VOd&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
