@@ -27,5 +27,4 @@ In 2017 streaming beat physical media out, globally, as not just the way people 
 
 # Lehigh/Lafayette Rivalry
 
-
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRS_2eVCtlc6zsBpj9wLLJ8inOsJgAi1--0ErPV3BKHlF3SxwD8e8RphwogdyQss5vJVu6XmZtc8VOd&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
