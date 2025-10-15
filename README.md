@@ -37,8 +37,9 @@ In the late 20th centuy and continuing into the 21st century the expansion of pr
 
 Charting this continued expansion shows how the Executive accrued as much power as it has, especially compared to Presidents during the "traditional" president era. Seeing the particular Acts that were passed and court cases decided that created our current climate gives a clearer picture of how to work on challenging these different executive orders. 
 
-Sources
-1. [The Traditional Presidence](https://www.britannica.com/topic/Presidents-of-the-United-States-1846696)
+Sources: 
+
+1. [The Traditional Presidency](https://www.britannica.com/topic/Presidents-of-the-United-States-1846696)
 
 2. [How Franklin Delano Roosevelt Shaped the Modern Presidency](https://www.npr.org/2025/03/31/nx-s1-5335528/how-fdr-expanded-executive-power-and-shaped-the-modern-presidency#:~:text=ARABLOUEI:%20So%20what%20kind%20of,the%20personification%20of%20the%20office.)
 
