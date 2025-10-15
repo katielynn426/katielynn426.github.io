@@ -32,3 +32,18 @@ In 2017 streaming beat physical media out, globally, as not just the way people 
 # Timeline of Executive Power Expansion: President Donald Trump Continuing the "Imperial Presidency" 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vR1WyIyGnoV5Rb2f1pdAq-H2fP7X6DoOE6d46vdAhKJKVmd56d-LLF1DpxIzWKpKY8YmGERx1uK7z1n&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+In the late 20th centuy and continuing into the 21st century the expansion of presidential power has led to our current administration's unchecked infringement on human rights and past precedent. A barage of Executive Orders that touch on every part of the law, including the Supreme Court overturning previous precedent and [removing injunctions](https://subscriber.politicopro.com/article/2025/07/supreme-court-education-department-ruling-00452134) that stopped the President from firing heads of certain deparments that were a part of the Executive Branch. 
+
+Charting this continued expansion shows how the Executive accrued as much power as it has, especially compared to Presidents during the "traditional" president era. Seeing the particular Acts that were passed and court cases decided that created our current climate gives a clearer picture of how to work on challenging these different executive orders. 
+
+Sources
+[The Traditional Presidence](https://www.britannica.com/topic/Presidents-of-the-United-States-1846696)
+[How Franklin Delano Roosevelt Shaped the Modern Presidency](https://www.npr.org/2025/03/31/nx-s1-5335528/how-fdr-expanded-executive-power-and-shaped-the-modern-presidency#:~:text=ARABLOUEI:%20So%20what%20kind%20of,the%20personification%20of%20the%20office.)
+[The Emergency Banking Act of 1933](https://www.federalreservehistory.org/essays/glass-steagall-act) 
+[Agricultural Adjucement Act of 1933](https://www.britannica.com/topic/Agricultural-Adjustment-Act) 
+[National Industrial Recovery Act](https://www.britannica.com/topic/National-Industrial-Recovery-Act) 
+[National Recovery Act of 1939](https://en.wikipedia.org/wiki/Reorganization_Act_of_1939) 
+[President Richard Nixon Watergate](https://www.chicagobooth.edu/review/what-watergate-revealed-about-presidential-power-america) 
+[PATRIOT Act](https://digitalcommons.law.villanova.edu/cgi/viewcontent.cgi?article=1108&context=wps) 
+[President Donald Trump, Executive Power Expansion](https://www.theguardian.com/us-news/2025/jul/06/trump-expansion-of-presidential-powers)
