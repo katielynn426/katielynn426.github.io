@@ -56,3 +56,8 @@ Sources:
 8. [PATRIOT Act](https://digitalcommons.law.villanova.edu/cgi/viewcontent.cgi?article=1108&context=wps) 
 
 9. [President Donald Trump, Executive Power Expansion](https://www.theguardian.com/us-news/2025/jul/06/trump-expansion-of-presidential-powers)
+
+
+# Lehigh University Full Time Equivalent Students per College 
+
+<iframe title="Full Time Equivalent Students by College" aria-label="Pie Chart" id="datawrapper-chart-khtZ0" src="https://datawrapper.dwcdn.net/khtZ0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="622" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
