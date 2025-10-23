@@ -68,3 +68,7 @@ Sources:
 <iframe title="Renewables vs. Emissions: How Ten Diverse Countries Compare" aria-label="Grouped column chart" id="datawrapper-chart-1wcHW" src="https://datawrapper.dwcdn.net/1wcHW/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="536" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 I used the data from a larger dataset to narrow down and focus in on these two aspects of climate change. I wanted to see if the percent of renerable energy used in a country lowers its per capita emissions. I found that there was a link between the two, countries with an extremely high per capita CO2 rate often had a low "percent of renewable energy used in a country" number. 
+
+# Google Map in-class practice 
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1bggwfr1LmIOvFmBorrRKwg-_eGzaUhA&ehbc=2E312F" width="640" height="480"></iframe>
