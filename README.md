@@ -72,3 +72,12 @@ I used the data from a larger dataset to narrow down and focus in on these two a
 # Google Map in-class practice 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1bggwfr1LmIOvFmBorrRKwg-_eGzaUhA&ehbc=2E312F" width="640" height="480"></iframe>
+
+# Most Segregated American Cities at the End of the 20th Century 
+
+<iframe src="https://www.google.com/maps/d/embed?mid=14pIRJdIzjogBBWMTTFhxHaCDjfsNExU&ehbc=2E312F" width="640" height="480"></iframe>
+Created by Katie Lynn Miller 
+
+I used the data from [this chart](https://censusscope.org/us/print_rank_dissimilarity_white_black.html) created by censusscope and lists the top most segregated cities in 2000 by dissimilarity index. This means that in 2000 these are the cities in which there is still a grossly uneven distribution of these groups. The reason that I picked this year is that, eventually, I would want to do a seperate layer marking how this has changed since 2000, because in the years prior to 2000 there had been a reckoning with race throughout the Civil Rights movement, after many of these redlining projects happening earlier on in the century. 
+
+After 2000 there has been several different approaches to desegregation, in a more involved way rather than making it illegal. In this map there is a clear picture of where the United States stands before President Barack Obama's term, the social justice push of the 2010s and the continuing movement towards integration by President Joe Biden through methods talked about in [this Forbes article](https://www.forbes.com/sites/raymondpierce/2023/05/16/what-about-school-desegregation-considering-new-strategies-around-race-and-education/). 
