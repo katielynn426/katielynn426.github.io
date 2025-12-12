@@ -109,10 +109,18 @@ I used a dataset from The Nation’s Report Card to investigate the change in th
 I not only used the data to create a map laying out the different scores, whether they were below average, average, or above average and then was able to use data that analyzed the specific distribution of this difference, which I did through a size plot. From this I was able to see that it was the states with the least amount of resources that also had the worst scores, like Puerto Rico. The points of the distribution data were negative if they were underneath 0, which meant that for the data for 1991 I had to use the formula, Score=26+x, to create the data I was using and Score=57+x to get representative scores for 2022. This way I was able to create a data visualization that was not too jumbled or confusing for the average viewer. 
 
 
+viewer. 
+
+
 # Final Project Fast Fashion
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2225%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"> <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://www.canva.com/design/DAG4l-k3IdU/Ux0v_a1Uwm9QOMFr6lLckQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"> </iframe> </div> <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAG4l-k3IdU&#x2F;Ux0v_a1Uwm9QOMFr6lLckQ&#x2F;view?utm_content=DAG4l k3IdU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Fast Fashion Project </a> by Maisie Wright
 
 Even though I came into this semester a student who had always been afraid of math, and had bad experiences with statistics I left this semester with a newfound passion for data journalism. Through this project I was able to combine all that I had learned, from working with large datasets, to creating survey questions all the way to describing that data in a journalistic manner. 
 
 It was when I was working with Tableau and I was able to figure out how to turn my categorical data into a numerical scatterplot for my "How does knowledge effect spending graph" that I understood just how much this semester I had learned. From that to projects where I was able to scale data through this semester I realized that this is not just information that I will use for one semester, but into whatever career I go into. 
 
-This project in particular, the amount of data and different visualizations we were able to create and use when describing something that could seem indescribable was particularly 
+This project in particular, the amount of data and different visualizations we were able to create and use when describing something that could seem indescribable was particularly interesting. 
+
+https://www.canva.com/design/DAG4l-k3IdU/FVWeQfTXnL86X_3m_qVM4Q/edit?utm_content=DAG4l-k3IdU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+[Fast Fashion Brown and Whtie Article](https://docs.google.com/document/d/1-43MoYW-e-6sgvhNE-DQaFCh6vvBD4k9rRtGPifFEpk/edit?usp=drivesdk)
